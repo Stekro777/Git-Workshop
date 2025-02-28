@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo Hello wrld from Steffen!
+echo Hello world from Steffen!
